@@ -1,0 +1,47 @@
+#countdown{ 
+    font-family: tahoma	;
+    color: black;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 18px;
+}
+#countdown > div{
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #0F6;
+    display: inline-block;
+}
+
+#countdown div > span{
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #FFF;
+    display: inline-block;
+}
+
+.table-nonfluid {
+        max-width: none;
+        table-layout: fixed;
+        word-wrap: break-word;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.underline-link {
+    text-decoration: underline;
+}
+
+.glyphicon {
+    font-size: 150%;
+}
+
+.required-field {
+    color: red;
+}
